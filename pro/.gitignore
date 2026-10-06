@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+data/*.csv
+!data/.gitkeep
+reports/results.json
+reports/progress.json
+reports/chunk_results.json
+.venv/
+venv/
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# Large generated data
+pro/data/chunks/*.csv
